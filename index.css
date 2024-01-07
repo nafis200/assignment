@@ -60,3 +60,34 @@ main{
     font-style: normal;
     font-weight: 500;
 }
+.section-2{
+    background-image: url('images/Vectorrr.png');
+    align-items: center;
+    background-repeat: no-repeat;
+    margin: 50px 140px;
+    width: 1320px; 
+    height: 600px;
+}
+
+.section-2-title{
+    color:white;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    padding-top:126px;
+    padding-left: 126px;
+    padding-bottom: 0px;
+}
+.section-2-description{
+    padding-top:24px;
+    padding-left: 129px;
+    padding-right: 497px;
+    padding-bottom:214px;
+    color: rgba(255, 255, 255, 0.80);
+    width: 690px;
+    height:60px;
+    font-size: 18px;
+    font-weight: 400;
+}
