@@ -84,10 +84,32 @@ main{
     padding-top:24px;
     padding-left: 129px;
     padding-right: 497px;
-    padding-bottom:214px;
+    padding-bottom:0px;
     color: rgba(255, 255, 255, 0.80);
     width: 690px;
     height:60px;
     font-size: 18px;
     font-weight: 400;
+}
+
+.section-3{
+    background: #FFF;
+    margin: 0 auto;
+    width: 1320px;
+    height: 482px;
+    margin: 50px 140px;
+}
+
+.btn1{
+    display: block;
+    text-align: center;
+    margin-left: 129px;
+    font-family:Inter;
+    font-size:20px;
+    font-weight: 700;
+    font-style: normal;
+}
+.btn1:hover{
+    color:red;
+    background: green;
 }
