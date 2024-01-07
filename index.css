@@ -29,3 +29,34 @@ header{
     padding-left:310px;
     padding-bottom: 500px;
 }
+main{
+    width: 1320px; 
+    height: 600px;
+    font-family: Inter;
+}
+
+.section-1{
+    /* padding: 0px 609px; */
+    text-align: center;
+    padding-left: 90px;
+}
+
+.first-image{
+    padding: 0px 390px;
+    width: 800px;
+    height: 500px;
+}
+
+.section1-title{
+    color:#F00;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    height: 107px;
+}
+.section1-description{
+    color: #F00;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+}
