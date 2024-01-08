@@ -328,3 +328,36 @@ main{
 .section-7-button:hover{
     background: aqua;
 }
+
+
+footer{
+    margin-top:5100px;
+    height: 600px;
+    width: 1500px;
+    background: black;
+    color: white;
+    font-family: Inter;
+}
+
+.footer-div1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-div-title{
+    padding-top:70px;
+    padding-left:40px;
+    font-size: 24px;
+    font-weight: 500;
+    width:350px;
+    height:80px;  
+}
+
+.footer-div-title-1{
+    padding-right: 300px;
+    padding-top:70px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
