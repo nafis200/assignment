@@ -93,11 +93,13 @@ main{
 }
 
 .section-3{
-    background: #FFF;
-    margin: 0 auto;
+    background:peachpuff;
     width: 1320px;
-    height: 482px;
+    height: 100px;
     margin: 50px 140px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 214px;
 }
 
 .btn1{
@@ -112,4 +114,15 @@ main{
 .btn1:hover{
     color:red;
     background: green;
+}
+
+.btn-2{
+    background: red;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    border:0;
+    color:whitesmoke;
+    padding:20px 30px;
 }
