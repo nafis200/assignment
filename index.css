@@ -228,8 +228,8 @@ main{
 
 .div-7-image-1{
     width: 400px;
-    height: 300x;
-    margin-right: 0px;
+    height: 500x;
+    margin-right: -100px;
 }
 
 .div-main{
@@ -238,6 +238,7 @@ main{
 .div-8-image-1{
     width:1320px;
     height:100px;
+    margin-top:-200px;
 }
 
 .section-6{
