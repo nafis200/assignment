@@ -126,3 +126,57 @@ main{
     color:whitesmoke;
     padding:20px 30px;
 }
+
+.section-4{
+    width: 1320px; 
+    height: 600px;
+    margin: 100px 140px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-1-title{
+    color:#F00;
+    font-family: Inter;
+    font-size:24px;
+    font-weight: 500;
+}
+
+.div-1-title-1{
+    color: #070211;
+    font-family: Merriweather;
+    font-weight: 900;
+}
+
+.div-1-description{
+    color: rgba(7, 2, 17, 0.60); 
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width:300px;
+}
+
+.div-1-image{
+    width: 365px;
+    height: 365px;
+    border-radius:solid red 15px;
+    border-radius:460px;
+    border: 15px solid red;
+    padding:20px;
+}
+
+.div-2-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px; 
+    font-weight: 700;
+}
+
+.div-2-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 276px;
+    height: 96px;
+}
