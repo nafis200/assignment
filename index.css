@@ -238,9 +238,39 @@ main{
 .div-8-image-1{
     width:1320px;
     height:100px;
-    margin-top: 50px;
 }
 
 .section-6{
-    margin: 100px 140px;
+    margin-top: 500px;
+    margin-left:140px;
+}
+
+.section-6-title{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.section-6-title-1{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.section-6-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width:800px;
+}
+.section-6-imgage{
+    width:300px;
+    height: 300px;
+    margin-right: 50px;
+    padding-right: 10px;
+    margin-top:0;
+    margin-bottom: 20px;
 }
